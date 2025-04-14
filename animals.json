@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Ellie", "species": "Elephant", "status": "Open", "health": "Healthy" },
+    { "id": 2, "name": "Tony", "species": "Tiger", "status": "Closed", "health": "Sick" },
+    { "id": 3, "name": "Panda", "species": "Panda", "status": "Open", "health": "Healthy" },
+    { "id": 4, "name": "Leo", "species": "Lion", "status": "Open", "health": "Healthy" }
+]
